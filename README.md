@@ -6,7 +6,7 @@
 
      Email id : m.yeshwanth235@gmail.com
      
-     linkedIn : https://www.linkedin.com/in/bablu-yeshwanth-6b656b1a2/
+     linkedIn : https://www.linkedin.com/in/yeshwanth-munagapati-6b656b1a2/
      
      twitter: @bablu_yeshwanth
 
