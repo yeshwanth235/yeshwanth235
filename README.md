@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @yeshwanth235
-- 👀 I’m interested in web developement, android studio.
-- 🌱 I’m currently learning web developement.
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me
 
