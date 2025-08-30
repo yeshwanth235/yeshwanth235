@@ -8,6 +8,12 @@
      
      twitter: @bablu_yeshwanth
 
+
+Learning Equality Contirbution
+
+https://github.com/learningequality/studio/issues?q=is%3Aissue%20assignee%3Ayeshwanth235
+
+https://github.com/learningequality/kolibri-design-system/issues?q=is%3Aissue%20assignee%3Ayeshwanth235
 <!---
 yeshwanth235/yeshwanth235 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
